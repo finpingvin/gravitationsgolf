@@ -1,0 +1,12 @@
+/home/daniel/Dev/TennisPennis/TennisPennis/bin/Debug/MonoGame.Framework.dll.config
+/home/daniel/Dev/TennisPennis/TennisPennis/bin/Debug/TennisPennis.exe
+/home/daniel/Dev/TennisPennis/TennisPennis/bin/Debug/TennisPennis.pdb
+/home/daniel/Dev/TennisPennis/TennisPennis/bin/Debug/MonoGame.Framework.dll
+/home/daniel/Dev/TennisPennis/TennisPennis/bin/Debug/Newtonsoft.Json.dll
+/home/daniel/Dev/TennisPennis/TennisPennis/bin/Debug/TiledSharp.dll
+/home/daniel/Dev/TennisPennis/TennisPennis/bin/Debug/MonoGame.Framework.xml
+/home/daniel/Dev/TennisPennis/TennisPennis/bin/Debug/Newtonsoft.Json.xml
+/home/daniel/Dev/TennisPennis/TennisPennis/obj/Debug/TennisPennis.csprojResolveAssemblyReference.cache
+/home/daniel/Dev/TennisPennis/TennisPennis/obj/Debug/TennisPennis.csproj.CoreCompileInputs.cache
+/home/daniel/Dev/TennisPennis/TennisPennis/obj/Debug/TennisPennis.exe
+/home/daniel/Dev/TennisPennis/TennisPennis/obj/Debug/TennisPennis.pdb
