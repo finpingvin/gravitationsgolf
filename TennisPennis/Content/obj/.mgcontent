@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/daniel/Dev/TennisPennis/TennisPennis/Content/Earth.png</File>
+    <File>/home/daniel/Dev/TennisPennis/TennisPennis/Content/Ball.png</File>
+    <File>/home/daniel/Dev/TennisPennis/TennisPennis/Content/Pointer.png</File>
+    <File>/home/daniel/Dev/TennisPennis/TennisPennis/Content/Redo.png</File>
+    <File>/home/daniel/Dev/TennisPennis/TennisPennis/Content/Goal.png</File>
+    <File>/home/daniel/Dev/TennisPennis/TennisPennis/Content/Aim.png</File>
+  </SourceFiles>
+</SourceFileCollection>
